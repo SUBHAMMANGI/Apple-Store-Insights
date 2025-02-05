@@ -158,6 +158,6 @@ This project explores and analyzes a comprehensive **App Store dataset** sourced
 ---
 
 ## 📬 Contact
-- **Author**: Divyanshu Mishra  
-- **Email**: [divyanshu.mishra@utdallas.edu](mailto:divyanshu.mishra@utdallas.edu)  
-- **GitHub**: [Divyanshu Mishra](https://github.com/DivyanshuMishra97)
+- **Author**: Subham Mangi  
+- **Email**: [Subham.mangi@utdallas.edu](mailto:Subham.mangi@utdallas.edu)  
+- **GitHub**: [SUBHAMMANGI](https://github.com/SUBHAMMANGI)
